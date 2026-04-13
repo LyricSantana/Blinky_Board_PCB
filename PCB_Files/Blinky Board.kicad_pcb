@@ -72,9 +72,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "../../../Downloads/blinky/")
 		)
 	)
 	(net 0 "")
@@ -6815,16 +6815,6 @@
 		(uuid "0ac5dde9-28ea-43fe-b23f-42ae2d646568")
 	)
 	(gr_line
-		(start 207.154171 95.08115)
-		(end 206.560311 96.479579)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "0db41666-9153-45e1-bc73-d4213a002b16")
-	)
-	(gr_line
 		(start 123.659305 68.73765)
 		(end 123.524171 67.35115)
 		(stroke
@@ -6845,16 +6835,6 @@
 		(uuid "0decae72-d2a4-41ce-9964-9b0c1028cbd1")
 	)
 	(gr_line
-		(start 124.914171 39.18115)
-		(end 125.554171 38.99115)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "0ed4ae9a-b54e-4593-ba05-57fc17ef9066")
-	)
-	(gr_line
 		(start 123.334171 69.54115)
 		(end 123.659305 68.73765)
 		(stroke
@@ -6873,6 +6853,16 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "1187c51a-df7c-479a-a890-4bd96d609a99")
+	)
+	(gr_line
+		(start 125.554171 38.99115)
+		(end 124.91 39.15)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "119bebc4-354c-40ea-a793-47ede86f2d9d")
 	)
 	(gr_line
 		(start 181.904171 117.17115)
@@ -6903,16 +6893,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "13b1a08c-50cb-4a92-8170-1a0ed4a80a2f")
-	)
-	(gr_line
-		(start 124.304171 39.49115)
-		(end 124.914171 39.18115)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "14e342f8-44f4-49e1-bb0f-81b0c78c2fae")
 	)
 	(gr_line
 		(start 158.004171 118.60115)
@@ -6993,6 +6973,16 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "2230d14d-f6a8-4b62-b589-b0664e149f1a")
+	)
+	(gr_line
+		(start 207.154171 95.08115)
+		(end 206.554171 96.51115)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "2313918a-48d7-4ce0-817a-980a92054dca")
 	)
 	(gr_line
 		(start 206.204171 46.66115)
@@ -8733,6 +8723,16 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "e9749b4c-b47e-405b-bbe8-1bc661b0f3b7")
+	)
+	(gr_line
+		(start 124.91 39.15)
+		(end 124.304171 39.49115)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "eb4c0d43-762d-4849-9677-eff552c2a6cf")
 	)
 	(gr_line
 		(start 144.504171 48.63115)
